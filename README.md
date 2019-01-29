@@ -1,1 +1,1 @@
-# liri-bot
+# liri-nop-app
