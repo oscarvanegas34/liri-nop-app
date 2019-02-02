@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # liri-bot
 
 We are using the following packages to retrieve the data that will power this app.
@@ -64,3 +65,6 @@ require("dotenv").config();
    * `movie-this`
 
    * `do-what-it-says`
+=======
+# liri-nop-app
+>>>>>>> 66929cb17239e1c590dcd5e1324a079c42dc3a25
