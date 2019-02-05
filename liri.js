@@ -65,6 +65,7 @@ var songName = process.argv.slice(2).join(" ");
 
 function spotifyThisSong(songName) {
   // Passing the credential from the .env file
+
   var spotify = new Spotify({
     id: process.env.SPOTIFY_ID,
     secret: process.env.SPOTIFY_SECRET
