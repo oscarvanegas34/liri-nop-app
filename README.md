@@ -1,5 +1,8 @@
-<<<<<<< HEAD
 # liri-bot
+
+# LINK TO VIEW DEMO OF THE APPLICATION
+
+https://drive.google.com/file/d/1QWbxuiylasH2KZ9PnKaH9p4Nica6Y7Zz/view
 
 We are using the following packages to retrieve the data that will power this app.
 
@@ -58,13 +61,16 @@ require("dotenv").config();
 
 9. Making liri.js to take the following commands:
 
- * `concert-this`
+* `concert-this`
 
-   * `spotify-this-song`
+* `spotify-this-song`
 
-   * `movie-this`
+* `movie-this`
 
-   * `do-what-it-says`
-=======
-# liri-nop-app
->>>>>>> 66929cb17239e1c590dcd5e1324a079c42dc3a25
+* `do-what-it-says`
+
+#Bonus
+
+I create a function called writeToLog tha logs all the output to a log file
+
+
